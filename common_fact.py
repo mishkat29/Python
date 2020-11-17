@@ -33,11 +33,6 @@ def checker(a,b):
 while True:
     try:
         a = int(input("Please enter a: "))
-        break
-    except ValueError:
-        print("Oops!  That was no valid number.  Try again...")
-while True:
-    try:
         b = int(input("Please enter b: "))
         break
     except ValueError:
