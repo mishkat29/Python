@@ -1,3 +1,3 @@
 # Python
-Basic Py codes. 
+Python codes. 
 IDE- Thonny and PyCharm
